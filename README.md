@@ -37,6 +37,8 @@ Sou um entusiasta por desenvolvimento de sistemas web, com foco em **backend**. 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ---
 
@@ -57,9 +59,3 @@ Sou um entusiasta por desenvolvimento de sistemas web, com foco em **backend**. 
 
 ---
 
-✨ _“Aprender nunca é demais. A cada linha de código, uma nova chance de evoluir.”_
-
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/fabiojreng/count.svg" alt="Contador de visitas" />
-</p>
