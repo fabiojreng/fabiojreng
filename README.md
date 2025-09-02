@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Fábio 👋</h1>
 
 <p align="center">
-  🎓 Estudante de Engenharia da Computação &nbsp;|&nbsp; 🧠 Apaixonado por tecnologia & backend &nbsp;|&nbsp; ⚙️ Em constante evolução
+  🎓 Estudante de Engenharia da Computação &nbsp;|&nbsp; 🧠 Apaixonado por tecnologia & desenvolvimento de software &nbsp;|&nbsp; ⚙️ Em constante evolução
 </p>
 
 
@@ -19,7 +19,6 @@ Sou um entusiasta por desenvolvimento de sistemas web, com foco em **backend**. 
 📦 **Refinando conhecimentos em arquitetura de software, boas práticas e testes**  
 
 📚 **Estudos em andamento**  
-- Linguagem **C#** e seu ecossistema (.NET)
 - **DDD** – Domain-Driven Design aplicado em backends complexos
 - **Microsserviços** com foco em escalabilidade
 - **Docker** para conteinerização e ambientes replicáveis
