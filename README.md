@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Fábio 👋</h1>
 
 <p align="center">
-  🎓 Estudante de Engenharia da Computação &nbsp;|&nbsp; 🧠 Apaixonado por tecnologia & desenvolvimento de software &nbsp;|&nbsp; ⚙️ Em constante evolução
+  🎓 Estudante de Engenharia da Computação &nbsp;|&nbsp; 🧠 Desenvolvimento de software &nbsp;|&nbsp; ⚙️ Em constante evolução
 </p>
 
 
