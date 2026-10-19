@@ -13,19 +13,6 @@ Sou um entusiasta por desenvolvimento de sistemas web, com foco em **backend**. 
 
 ---
 
-### 🚧 Atualmente
-
-
-📦 **Refinando conhecimentos em arquitetura de software, boas práticas e testes**  
-
-📚 **Estudos em andamento**  
-- **DDD** – Domain-Driven Design aplicado em backends complexos
-- **Microsserviços** com foco em escalabilidade
-- **Docker** para conteinerização e ambientes replicáveis
-- **Testes automatizados** (unitários e de integração)
-
----
-
 ### 🚀 Tecnologias & Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,15 +25,6 @@ Sou um entusiasta por desenvolvimento de sistemas web, com foco em **backend**. 
 ![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
----
-
-### 📈 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabiojreng&show_icons=true&theme=radical" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiojreng&layout=compact&theme=radical" height="165" />
-</p>
 
 ---
 
